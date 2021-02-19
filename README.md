@@ -3,33 +3,33 @@
 ## Index
 
 ### Perceptual Patterns
-- [Colour](#)
-- [Icons](#)
-- [Spacing](#)
-- [Typography](#)
+- [Colour](perceptual/colour)
+- [Icons](perceptual/icons)
+- [Spacing](perceptual/spacing)
+- [Typography](perceptual/typography)
 
 ### Functional Patterns
 #### Buttons
 - [Action Button](functional/buttons/action-button)
-- [Collection Button](#)
-- [Play Button](#)
-- [Utensil Button](#)
+- [Collection Button](functional/buttons/collection-button)
+- [Play Button](functional/buttons/play-button)
+- [Utensil Button](functional/buttons/utensil-button)
 
 #### Content Item Links
-- [Album](#)
-- [Artist](#)
-- [Curator Card](#)
-- [Playlist](#)
-- [Recording](#)
-- [Work](#)
+- [Album](functional/content-item-links/album)
+- [Artist](functional/content-item-links/artist)
+- [Curator Card](functional/content-item-links/curator-card)
+- [Playlist](functional/content-item-links/playlist)
+- [Recording](functional/content-item-links/recording)
+- [Work](functional/content-item-links/work)
 
 #### Content Labels
-- [Recording Info](#)
-- [Work Authors](#)
-- [Work Composers](#)
+- [Recording Info](functional/content-labels/recording-info)
+- [Work Authors](functional/content-labels/work-authors)
+- [Work Composers](functional/content-labels/work-composers)
 
 #### Misc
-- [Flick Through](#)
+- [Flick Through](functional/misc/flick-through)
 
 ## Goals
 - Identify and define existing patterns in our user interfaces.
