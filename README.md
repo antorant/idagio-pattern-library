@@ -1,5 +1,20 @@
 # IDAGIO Pattern Library
 
+## Index
+
+### Perceptual Patterns
+- [Colour](#)
+- [Icons](#)
+- [Spacing](#)
+- [Typography](#)
+
+### Functional Patterns
+#### Buttons
+- [Action Button](#)
+- [Collection Button](#)
+- [Play Button](#)
+- [Utensil Button](#)
+
 ## Goals
 - Identify and define existing patterns in our user interfaces.
 - Establish a source of truth for those patterns.
