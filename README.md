@@ -1,4 +1,4 @@
-# IDAGIO Pattern Library
+# IDAGIO Pattern Library (2018)
 
 ## Index
 
@@ -30,6 +30,8 @@
 
 #### Misc
 - [Flick Through](functional/misc/flick-through)
+
+---
 
 ## Goals
 - Identify and define existing patterns in our user interfaces.
