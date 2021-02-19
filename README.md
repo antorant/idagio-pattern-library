@@ -10,10 +10,26 @@
 
 ### Functional Patterns
 #### Buttons
-- [Action Button](#)
+- [Action Button](functional/buttons/action-button)
 - [Collection Button](#)
 - [Play Button](#)
 - [Utensil Button](#)
+
+#### Content Item Links
+- [Album](#)
+- [Artist](#)
+- [Curator Card](#)
+- [Playlist](#)
+- [Recording](#)
+- [Work](#)
+
+#### Content Labels
+- [Recording Info](#)
+- [Work Authors](#)
+- [Work Composers](#)
+
+#### Misc
+- [Flick Through](#)
 
 ## Goals
 - Identify and define existing patterns in our user interfaces.
