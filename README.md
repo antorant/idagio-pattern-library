@@ -11,20 +11,13 @@
 [Play Button](functional/buttons/play-button) | [Utensil Button](functional/buttons/utensil-button)
 
 #### Content Item Links
-- [Album](functional/content-item-links/album)
-- [Artist](functional/content-item-links/artist)
-- [Curator Card](functional/content-item-links/curator-card)
-- [Playlist](functional/content-item-links/playlist)
-- [Recording](functional/content-item-links/recording)
-- [Work](functional/content-item-links/work)
+[Album](functional/content-item-links/album) | [Artist](functional/content-item-links/artist) | [Curator Card](functional/content-item-links/curator-card) | [Playlist](functional/content-item-links/playlist) | [Recording](functional/content-item-links/recording) | [Work](functional/content-item-links/work)
 
 #### Content Labels
-- [Recording Info](functional/content-labels/recording-info)
-- [Work Authors](functional/content-labels/work-authors)
-- [Work Composers](functional/content-labels/work-composers)
+[Recording Info](functional/content-labels/recording-info) | [Work Authors](functional/content-labels/work-authors) | [Work Composers](functional/content-labels/work-composers)
 
 #### Misc
-- [Flick Through](functional/misc/flick-through)
+[Flick Through](functional/misc/flick-through)
 
 ---
 
