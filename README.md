@@ -3,17 +3,12 @@
 ## Index
 
 ### Perceptual Patterns
-- [Colour](perceptual/colour)
-- [Icons](perceptual/icons)
-- [Spacing](perceptual/spacing)
-- [Typography](perceptual/typography)
+[Colour](perceptual/colour) | [Icons](perceptual/icons) | [Spacing](perceptual/spacing) | [Typography](perceptual/typography)
 
 ### Functional Patterns
 #### Buttons
-- [Action Button](functional/buttons/action-button)
-- [Collection Button](functional/buttons/collection-button)
-- [Play Button](functional/buttons/play-button)
-- [Utensil Button](functional/buttons/utensil-button)
+[Action Button](functional/buttons/action-button) | [Collection Button](functional/buttons/collection-button) |
+[Play Button](functional/buttons/play-button) | [Utensil Button](functional/buttons/utensil-button)
 
 #### Content Item Links
 - [Album](functional/content-item-links/album)
